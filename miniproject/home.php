@@ -14,7 +14,7 @@
 
     <header class="sticky" id="nav_pages">
         
-        <img  src="TFOE.png"  alt="Project_logo" id="logo">
+           <a href='http://localhost/miniproject/home.php'><img  src='TFOE.png'  alt='Project_logo' id='logo'></a> 
         <nav>
             <a class="nav_pages" href="http://localhost/miniproject/home.php">Home</a>
             <a class="nav_pages" href="http://localhost/miniproject/register1.php">Register</a>
