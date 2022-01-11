@@ -133,7 +133,8 @@ else{
     <section id ='topup'>
     
         <button id='topupbtn'>Top Up</button>       
-
+           <input type='number' name='amount' placeholder='Amount'>
+        <button id='subbtn'>Submit</button>  
     </section>
     
     
