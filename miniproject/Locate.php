@@ -27,7 +27,9 @@
         </nav>
     </header>
     <section id="map_section">
-        <iframe id="maps" src="https://my.atlistmaps.com/map/96dec58c-a0c7-4616-bc5f-c78e9c368862?share=true" allow="geolocation" width="100%" height="500px" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<!--         <iframe id="maps" src="https://my.atlistmaps.com/map/96dec58c-a0c7-4616-bc5f-c78e9c368862?share=true" allow="geolocation" width="100%" height="500px" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ -->
+                    <iframe src="https://my.atlistmaps.com/map/7f445e5a-5602-41d0-b214-f4b50e975620?share=true" allow="geolocation" width="100%" height="800px" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
     </section>
 </body>
