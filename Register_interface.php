@@ -5,6 +5,10 @@ session_start();
 $conn2=new mysqli("localhost","root","","users");
 $connection=new mysqli("localhost","root","","miniproject");
 if(isset($_POST['submit'])){
+ if(empty($_POST['acc_num']) or empty($_POST['recharge'])){
+ echo "<script> window.alert(' Please Enter Correctly ')</script>";
+  die();
+ }
  $acc_num=$_POST['acc_num'];
  $recharge=$_POST['recharge'];
  $email=$_SESSION['email'];
