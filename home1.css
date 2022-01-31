@@ -19,9 +19,9 @@ header{
     padding-top: 10px;
     
 }
-/* .navpages a:link:focus , a:visited:focus {
+.navpages a:link:focus , a:visited:focus {
     -moz-outline: none;
- } */
+ }
 nav{
     display: flex;
     margin-left: 400px;
